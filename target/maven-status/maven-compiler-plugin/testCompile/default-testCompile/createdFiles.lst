@@ -1,0 +1,17 @@
+guru\springframework\sfgpetclinic\ModelTest.class
+guru\springframework\sfgpetclinic\services\springdatajpa\PetTypeSDJpaServiceIT.class
+guru\springframework\sfgpetclinic\model\OwnerTest.class
+guru\springframework\sfgpetclinic\ModelRepeatedTests.class
+guru\springframework\sfgpetclinic\junitExtensions\TimingExtension.class
+guru\springframework\sfgpetclinic\services\map\OwnerMapServiceTest$TestCreatePetTypes.class
+guru\springframework\sfgpetclinic\services\map\OwnerMapServiceTest.class
+guru\springframework\sfgpetclinic\controllers\IndexControllerTest.class
+guru\springframework\sfgpetclinic\services\OwnerSDJpaServiceTest.class
+guru\springframework\sfgpetclinic\controllers\VetControllerTest.class
+guru\springframework\sfgpetclinic\CustomArgsProvider.class
+guru\springframework\sfgpetclinic\fauxspring\ModelMapImpl.class
+guru\springframework\sfgpetclinic\model\PersonRepeatedTests.class
+guru\springframework\sfgpetclinic\ControllersTest.class
+guru\springframework\sfgpetclinic\services\map\OwnerMapServiceTest$TestCreatePetTypes$SaveOwnersTests$FindOwnersTests.class
+guru\springframework\sfgpetclinic\services\map\OwnerMapServiceTest$TestCreatePetTypes$SaveOwnersTests.class
+guru\springframework\sfgpetclinic\model\PersonTest.class
